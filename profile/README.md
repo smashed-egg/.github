@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/smashed-egg/.github/05d922c99f1a3bddea88339064534566b941eca9/profile/main.jpg" width="400">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smashed-egg/.github/05d922c99f1a3bddea88339064534566b941eca9/profile/main.jpg" width="400">
+</p>
 
 # About Smashed Egg
 
