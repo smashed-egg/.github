@@ -20,6 +20,6 @@ If you file a bug report, your issue should contain a title and a clear descript
 
 # Development Discussion
 
-You may propose new features or improvements of existing Smashed Egg packages in the relevant GitHub discussion board [here](https://github.com/smashed-egg/.github/discussions). 
+You may propose new features or improvements of existing Smashed Egg packages in the relevant GitHub discussion board. 
 
 If you propose a new feature, please be willing to implement at least some of the code that would be needed to complete the feature.
